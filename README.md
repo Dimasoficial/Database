@@ -1,1 +1,3 @@
-# -stazinhobot-data
+{
+     "expirationDate": "2025-03-20"
+   }
